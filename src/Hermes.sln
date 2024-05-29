@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34909.67
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reference Services", "Reference Services", "{AFBC569B-6774-4E33-9172-06540CC3D3FB}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ReferenceServices.Database", "ReferenceServices\ReferenceServices.Database\ReferenceServices.Database.sqlproj", "{2BC72DB6-F7EF-409E-A62A-EF79BFD31D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC72DB6-F7EF-409E-A62A-EF79BFD31D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC72DB6-F7EF-409E-A62A-EF79BFD31D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC72DB6-F7EF-409E-A62A-EF79BFD31D18}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2BC72DB6-F7EF-409E-A62A-EF79BFD31D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC72DB6-F7EF-409E-A62A-EF79BFD31D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC72DB6-F7EF-409E-A62A-EF79BFD31D18}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2BC72DB6-F7EF-409E-A62A-EF79BFD31D18} = {AFBC569B-6774-4E33-9172-06540CC3D3FB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB47C4B2-D448-429D-AB02-142B41CC7B26}
+	EndGlobalSection
+EndGlobal
